@@ -1,4 +1,4 @@
-# Hello 👋, I'm Chiku!
+# Hello 👋, I'm Shibaprasad!
 
 🚀 I'm passionate about Python, DevOps, AI and building cool projects.
 
